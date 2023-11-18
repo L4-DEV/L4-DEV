@@ -1,16 +1,61 @@
-### Hi there 👋
+### 
 
-<!--
-**L4-DEV/L4-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">  <strong> Olá, eu sou o Lucas Wendel (L4)! </strong></p>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> Estou estudando, <strong> C#, Java, CSS e HTML... </strong></p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=L4-DEV&show_icons=true&theme=radical" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4-DEV&layout=donut&theme=radical"  />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## My Skills
+
+#### Main Stack:
+
+<img align="center" alt="L4-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
+#### Studying in this moment:
+<div style="display: inline_block"><br>
+<img align="center" alt="L4-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="L4-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="L4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+#### Databases:
+<img align="center" alt="L4-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+
+#### Workstation Tools:
+<div style="display: inline_block"><br>
+<img align="center" alt="L4-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="L4-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</div>
+
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href = "mailto:lucaswendelnsx@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-wendel-4380221b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+<img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
