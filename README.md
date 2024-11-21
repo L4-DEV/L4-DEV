@@ -1,7 +1,7 @@
 ### 
 
 
-<p align="center">  <strong> Olá, eu sou o Lucas Wendel (L4)! </strong></p>&nbsp;
+<p align="center">  <strong> Olá, eu sou o Lucas Wendel! </strong></p>&nbsp;
 
 <p align="center"> Estou estudando, <strong> C#, Java, CSS e HTML... </strong></p>&nbsp;
 
