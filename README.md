@@ -3,7 +3,7 @@
 
 <p align="center">  <strong> Olá, eu sou o Lucas Wendel! </strong></p>&nbsp;
 
-<p align="center"> Estou estudando, <strong> C#, Java, CSS e HTML... </strong></p>&nbsp;
+<p align="center"> Estou estudando, <strong> PYTHON... </strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=L4-DEV&show_icons=true&theme=radical" />
@@ -29,15 +29,15 @@
 
 #### Studying in this moment:
 <div style="display: inline_block"><br>
-<img align="center" alt="L4-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="L4-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="L4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="L4-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="center" alt="L4-CSS" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
 
-
 #### Databases:
+<div style="display: inline_block"><br>
 <img align="center" alt="L4-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
+<img align="center" alt="L4-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+</div>
 
 #### Workstation Tools:
 <div style="display: inline_block"><br>
